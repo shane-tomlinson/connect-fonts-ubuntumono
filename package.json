@@ -1,0 +1,29 @@
+{
+  "Author": "Shane Tomlinson <shane@shanetomlinson.com> (https://shanetomlinson.com)",
+  "name": "connect-fonts-ubuntumono",
+  "description": "Ubuntu Mono font pack for connect-fonts",
+  "keywords": ["font", "font-face", "CSS", "connect-fonts", "ubuntumono-bold", "ubuntumono-bolditalic", "ubuntumono-italic", "ubuntumono-regular"],
+  "homepage": "https://github.com/shane-tomlinson/connect-fonts-ubuntumono",
+  "licenses": [
+    {
+      "covers": "software",
+      "type": "MPL-2.0",
+      "url": "http://mozilla.org/MPL/2.0/"
+    },
+    {
+      "covers": "fonts",
+      "type": "UFL-1.0",
+      "url": "http://font.ubuntu.com/ufl/ubuntu-font-licence-1.0.txt"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shane-tomlinson/connect-fonts-ubuntumono"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "node": ">= 0.4.7"
+  },
+  "main": "index"
+}
+
